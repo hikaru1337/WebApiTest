@@ -1,0 +1,5 @@
+C:\Users\xXx\source\repos\linux64_musl\appsettings.Development.json
+C:\Users\xXx\source\repos\linux64_musl\appsettings.json
+C:\Users\xXx\source\repos\linux64_musl\WebApiTest.pdb
+C:\Users\xXx\source\repos\linux64_musl\libe_sqlite3.so
+C:\Users\xXx\source\repos\linux64_musl\WebApiTest

@@ -1,0 +1,5 @@
+C:\Users\xXx\source\repos\WebApiTest\bin\Debug\net7.0\linux-musl-x64\publish\appsettings.Development.json
+C:\Users\xXx\source\repos\WebApiTest\bin\Debug\net7.0\linux-musl-x64\publish\appsettings.json
+C:\Users\xXx\source\repos\WebApiTest\bin\Debug\net7.0\linux-musl-x64\publish\WebApiTest.pdb
+C:\Users\xXx\source\repos\WebApiTest\bin\Debug\net7.0\linux-musl-x64\publish\libe_sqlite3.so
+C:\Users\xXx\source\repos\WebApiTest\bin\Debug\net7.0\linux-musl-x64\publish\WebApiTest
